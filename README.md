@@ -21,4 +21,4 @@ ClamAV GUI is a Python-based graphical user interface for **ClamAV**, a popular 
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ClamAV_GUI.git
+   git clone https://github.com/raymondstevens1881/ClamAV_GUI.git
