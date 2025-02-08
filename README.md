@@ -1,4 +1,4 @@
-# ClamAV GUI (macOS and Linux Supported, working on Windows support in a future update)
+# ClamAV GUI
 
 ClamAV GUI is a Python-based graphical user interface for **ClamAV**, a popular open-source antivirus engine. This project makes it easier to use ClamAV by providing an intuitive interface for scanning files, directories, and managing ClamAV functionalities.
 
